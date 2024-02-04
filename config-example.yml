@@ -1,0 +1,5 @@
+main:
+    connstring: service=my-main-server
+    foreignserver: myforeignserver
+fdw:
+    connstring: service=my-foreign-server
